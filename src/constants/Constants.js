@@ -317,12 +317,12 @@ export const DoorMapping = [
     {
         id: "st1",
         category: "steel",
-        src: "/steel/1+.jpeg"
+        src: "/steel/1+.png"
     },
     {
         id: "st2",
         category: "steel",
-        src: "/steel/2+.jpeg"
+        src: "/steel/2+.png"
     },
     {
         id: "st3",
@@ -332,7 +332,7 @@ export const DoorMapping = [
     {
         id: "st4",
         category: "steel",
-        src: "/steel/4+.jpeg"
+        src: "/steel/4+.png"
     },
     {
         id: "st5",
@@ -342,21 +342,17 @@ export const DoorMapping = [
     {
         id: "st6",
         category: "steel",
-        src: "/steel/6+.jpeg"
+        src: "/steel/6+.png"
     },
     {
         id: "st7",
         category: "steel",
         src: "/steel/7.jpeg"
     },
-    {
-        id: "st8",
-        category: "steel",
-        src: "/steel/8+.jpeg"
-    }, {
+     {
         id: "st9",
         category: "steel",
-        src: "/steel/9+.jpeg"
+        src: "/steel/9+.png"
     }, {
         id: "st10",
         category: "steel",
@@ -364,7 +360,7 @@ export const DoorMapping = [
     }, {
         id: "st11",
         category: "steel",
-        src: "/steel/11+.jpeg"
+        src: "/steel/11+.png"
     }, {
         id: "st12",
         category: "steel",
@@ -376,7 +372,7 @@ export const DoorMapping = [
     }, {
         id: "st14",
         category: "steel",
-        src: "/steel/14+.jpeg"
+        src: "/steel/14+.png"
     }, {
         id: "st15",
         category: "steel",
@@ -384,7 +380,7 @@ export const DoorMapping = [
     }, {
         id: "st16",
         category: "steel",
-        src: "/steel/16+.jpeg"
+        src: "/steel/16+.png"
     }, {
         id: "st17",
         category: "steel",
@@ -396,7 +392,7 @@ export const DoorMapping = [
     }, {
         id: "st19",
         category: "steel",
-        src: "/steel/19.jpeg"
+        src: "/steel/19.png"
     }, {
         id: "st20",
         category: "steel",
@@ -408,7 +404,7 @@ export const DoorMapping = [
     }, {
         id: "st22",
         category: "steel",
-        src: "/steel/22+.jpeg"
+        src: "/steel/22+.png"
     }, {
         id: "st23",
         category: "steel",
@@ -416,7 +412,7 @@ export const DoorMapping = [
     }, {
         id: "st24",
         category: "steel",
-        src: "/steel/24+.jpeg"
+        src: "/steel/24+.png"
     }, {
         id: "st25",
         category: "steel",
@@ -424,11 +420,11 @@ export const DoorMapping = [
     }, {
         id: "st26",
         category: "steel",
-        src: "/steel/26+.jpeg"
+        src: "/steel/26+.png"
     }, {
         id: "st27",
         category: "steel",
-        src: "/steel/27+.jpeg"
+        src: "/steel/27+.png"
     }, {
         id: "st28",
         category: "steel",
@@ -436,11 +432,11 @@ export const DoorMapping = [
     }, {
         id: "st29",
         category: "steel",
-        src: "/steel/29+.jpeg"
+        src: "/steel/29+.png"
     }, {
         id: "st30",
         category: "steel",
-        src: "/steel/30+.jpeg"
+        src: "/steel/30+.png"
     }, {
         id: "st31",
         category: "steel",
@@ -448,11 +444,11 @@ export const DoorMapping = [
     }, {
         id: "st32",
         category: "steel",
-        src: "/steel/32+.jpeg"
+        src: "/steel/32+.png"
     }, {
         id: "st33",
         category: "steel",
-        src: "/steel/33+.jpeg"
+        src: "/steel/33+.png"
     }, {
         id: "st34",
         category: "steel",
@@ -464,7 +460,7 @@ export const DoorMapping = [
     }, {
         id: "st36",
         category: "steel",
-        src: "/steel/36+.jpeg"
+        src: "/steel/36+.png"
     }, {
         id: "st37",
         category: "steel",
@@ -476,7 +472,7 @@ export const DoorMapping = [
     }, {
         id: "st39",
         category: "steel",
-        src: "/steel/39.jpeg"
+        src: "/steel/39.png"
     }, {
         id: "st40",
         category: "steel",
@@ -492,7 +488,7 @@ export const DoorMapping = [
     }, {
         id: "st44",
         category: "steel",
-        src: "/steel/44+.jpeg"
+        src: "/steel/44+.png"
     }, {
         id: "st45",
         category: "steel",
@@ -504,7 +500,7 @@ export const DoorMapping = [
     }, {
         id: "st47",
         category: "steel",
-        src: "/steel/47+.jpeg"
+        src: "/steel/47+.png"
     }, {
         id: "st48",
         category: "steel",
