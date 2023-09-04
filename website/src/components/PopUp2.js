@@ -65,7 +65,7 @@ const PopUp2 = (props) => {
                 <div className="bg-[#CC313D] w-[415px] h-[71px]  text-[25px] flex items-center justify-center text-white font-bold text-center">
                     COLOR
                 </div>
-                <div className="bg-[#D9D9D9] p-5" style={{ height: '854px', overflowY: 'auto', marginBottom: '10px' }} onClick={handleChildElementClick}>
+                <div className="bg-[#D9D9D9] p-5 h-full" style={{ overflowY: 'auto', marginBottom: '10px' }} onClick={handleChildElementClick}>
                     <div className="grid grid-cols-3 gap-5">
                         {images.map((image, index) => (
                             <div

@@ -33,7 +33,7 @@ function PopUp5(props) {
           SUBMIT
         </div>
         <div
-          className="bg-[#D9D9D9] flex-grow w-[415px] h-[854px]"
+          className="bg-[#D9D9D9] flex-grow w-[415px] h-full"
           onClick={(e) => handleChildElementClick(e)}
         >
           <div className="flex flex-col items-center mt-8">

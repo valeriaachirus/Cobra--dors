@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  frontend:
+    build:
+      dockerfile: ./docker/frontend/Dockerfile
+      context: ./
+
+  nginx-ssl-proxy:
+    image: danieldent/nginx-ssl-proxy
+    restart: always
+    environment:
+      UPSTREAM: frontend:3000
+      SERVERNAME: cobradoors.ca
+      EXTRANAMES: www.cobradoors.ca
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - "/etc/letsencrypt"
+      - ./docker/nginx/default.conf:/etc/nginx/conf.d/default.conf

@@ -51,7 +51,7 @@ const PopUp1 = (props) => {
         <div className="bg-[#CC313D] w-[415px] h-[70px] text-[25px] flex items-center justify-center text-white font-bold text-center">
           MODEL
         </div>
-        <div className="bg-[#D9D9D9] flex-grow w-[415px] max-h-[854px] overflow-y-auto p-4">
+        <div className="bg-[#D9D9D9] flex-grow w-[415px] h-full overflow-y-auto p-4">
           <div className="flex justify-center mb-4">
             <button
               className={`py-2 px-4 text-[20px]  rounded-full text-white font-bold ${

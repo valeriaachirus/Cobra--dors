@@ -106,7 +106,7 @@ const Sidebar = ({ onSelect }) => {
         </div>
 
         <div className="flex col-start-2 col-end-4">
-          <div className={`${showsubMenu ? 'flex' : 'hidden'}`}>
+          <div className={`${showsubMenu ? 'flex' : 'hidden'} h-full`}>
             <Content />
           </div>
         </div>
